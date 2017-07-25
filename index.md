@@ -6,5 +6,5 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> FIXME..
 {: .prereq}
