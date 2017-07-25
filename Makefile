@@ -30,4 +30,3 @@ clean-html:
 	-rm *.html
 
 clean: clean-skeleton clean-html clean-md
- 
