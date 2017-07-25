@@ -68,4 +68,4 @@ We had a couple instances die as we were going through our workshop.
 ping hostname
 ```
 
-+ If the student's internet is working, you can't connect via a different protocol or you can't ping the instance, probably it's died. Assign the student to a new instance. We had 2 out of ~30 die at our workshop at ISU.  
++ If the student's internet is working, you can't connect via a different protocol or you can't ping the instance, probably it's died. Assign the student to a new instance. We had 2 out of ~30 die at our workshop at ISU.
