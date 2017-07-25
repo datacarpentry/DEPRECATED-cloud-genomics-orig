@@ -28,7 +28,7 @@ The most important thing about *The Cloud* is choice - instead of purchasing a p
 **Advantages of Cloud Computing**
 * Access large amounts of computing power on demand
 * Full administrative rights - install anything
-* Use pre-con../figured images (software already installed)
+* Use pre-configured images (software already installed)
  
 
 **Disadvantages of Cloud Computing**
