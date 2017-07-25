@@ -23,7 +23,7 @@ keypoints:
 
 ### Choosing a cloud platform
 
-The most important thing about *The Cloud* is choice - instead of purchasing a physical computer, you can obtain on-demand computing at almost any scale. This power comes with advantages and disadvantages:
+The most important thing about *The Cloud* is choice - instead of purchasing a physical computer, you can obtain on-demand computing at almost any scale. This power comes with advantages and disadvantages.
 
 **Advantages of Cloud Computing**
 * Access large amounts of computing power on demand
