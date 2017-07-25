@@ -77,4 +77,3 @@ guidelines:
     <br/>
     Mail us at [board@datacarpentry.org](mailto:board@datacarpentry.org)
 
-  

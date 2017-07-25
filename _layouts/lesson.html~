@@ -29,4 +29,3 @@
     {% include javascript.html %}
   </body>
 </html>
-  
