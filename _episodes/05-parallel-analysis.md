@@ -18,7 +18,7 @@ objectives:
 - "(HPC) Run programs as jobs via a job scheduler."
 
 keypoints:
-- "Parallel computing saves time with concurrent processing."
+- "Parallel computing saves time with concurrent processing"
 ---
 
 
